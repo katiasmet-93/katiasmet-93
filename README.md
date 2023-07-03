@@ -1,40 +1,40 @@
 👋 Freelance creative developer from Belgium 🇧🇪
 
-✉️ [hello@katiasmet.com](mailto:hello@katiasmet.com)
-🌐 [katiasmet.com](https://katiasmet.com)
-🔗 [Twitter](https://twitter.com/KatiaSmet)
-🔗 [LinkedIn](https://www.linkedin.com/in/katiasmet/)
+✉️ [hello@katiasmet.com](mailto:hello@katiasmet.com)<br />
+🌐 [katiasmet.com](https://katiasmet.com)<br />
+🔗 [Twitter](https://twitter.com/KatiaSmet)<br />
+🔗 [LinkedIn](https://www.linkedin.com/in/katiasmet/)<br />
 
 ## Technologies
 
 ### Front-End
 
-React (Next - Gatsby - Remix)
-Vue (Nuxt - Gridsome)
-GSAP
-Framer Motion
-Three.JS
-Phaser
-D3
-Howler
-Highway - Taxi
-Locomotive Scroll - Lenis
+React (Next - Gatsby - Remix)<br />
+Vue (Nuxt - Gridsome)<br />
+GSAP<br />
+Framer Motion<br />
+Three.JS<br />
+Phaser<br />
+D3<br />
+Howler<br />
+Highway - Taxi<br />
+Locomotive Scroll - Lenis<br />
 
 ### CMS
 
-Sanity
-Craft CMS
-Strapi
-Kirby
-Wordpress
-Keeping an eye on Payload CMS, Dato CMS and Contentful.
+Sanity<br />
+Craft CMS<br />
+Strapi<br />
+Kirby<br />
+Wordpress<br />
+Keeping an eye on Payload CMS, Dato CMS and Contentful.<br />
 
 ### Other
 
-TypeScript
-Jest
-Cypress
-Docker
-CI pipelines
-Vercel
-Netlify
+TypeScript<br />
+Jest<br />
+Cypress<br />
+Docker<br />
+CI pipelines<br />
+Vercel<br />
+Netlify<br />
