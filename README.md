@@ -1,16 +1,40 @@
-### Hi there 👋
+👋 Freelance creative developer from Belgium 🇧🇪
 
-<!--
-**katiasmet-93/katiasmet-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ [hello@katiasmet.com](mailto:hello@katiasmet.com)
+🌐 [katiasmet.com](https://katiasmet.com)
+🔗 [Twitter](https://twitter.com/KatiaSmet)
+🔗 [LinkedIn](https://www.linkedin.com/in/katiasmet/)
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End
+
+React (Next - Gatsby - Remix)
+Vue (Nuxt - Gridsome)
+GSAP
+Framer Motion
+Three.JS
+Phaser
+D3
+Howler
+Highway - Taxi
+Locomotive Scroll - Lenis
+
+### CMS
+
+Sanity
+Craft CMS
+Strapi
+Kirby
+Wordpress
+Keeping an eye on Payload CMS, Dato CMS and Contentful.
+
+### Other
+
+TypeScript
+Jest
+Cypress
+Docker
+CI pipelines
+Vercel
+Netlify
